@@ -1,6 +1,7 @@
 <?php
 	$lang = array(
 		"title1" => "About me",
+        "projet" => "Project",
         "header" => "Basic information about me",
         "description" => "Khalid Esserhir,Web Developer, started this field about a year ago. I discovered the area of random programming by watching videos on YouTube and I went on one of the channels to explain one of the programming lessons. This area, especially that I like mathematics and logic, has revealed that the programming field is very similar on logic and mathematical analysis.",
         "nom" => "Name",

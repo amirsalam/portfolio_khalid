@@ -56,10 +56,7 @@ echo $msg;
 ===============================================================================-->
 
 
-    <ul>
-    <li><a href="index.php?lang=fr"><img width=5% height=5%  src="img/France-Flag.png"></a></li>
-        <li><a href="index.php?lang=en"><img width=5% height=5% src="img/United-Kingdom-Flag.png"></a></li>
-    </ul>
+    
     
 		<!--=============================================================================
 			Preloader
@@ -139,7 +136,7 @@ echo $msg;
 							
 							
 							<li>
-								<a href='#' data-section='portfolio' >Portfolio</a>
+								<a href='#' data-section='portfolio' ><?php echo $lang['projet']; ?></a>
 							</li>
 							
 							
@@ -853,7 +850,7 @@ echo $msg;
 								
 								<div class='section-header text-center' >
 								
-									<h2 class='animate text-over-block' >Portfolio</h2>
+									<h2 class='animate text-over-block' ><?php echo $lang['projet']; ?></h2>
 									
 									<!--divider-->
 									<div class='divider-draft center' ></div>
@@ -1175,6 +1172,14 @@ echo $msg;
 				<span></span>
 			</div>
 			<!--/close button-->
+    <!--=============================================================================
+			flag lang
+
+===============================================================================-->
+    <div class=" language ">
+            <a href="index.php?lang=fr"><img src="https://img.icons8.com/color/32/000000/france.png"</a>
+            <a href="index.php?lang=en"><img src="https://img.icons8.com/color/32/000000/great-britain.png"</a>
+        </div>
 			
 			
 		</div>

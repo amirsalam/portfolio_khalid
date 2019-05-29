@@ -1,6 +1,7 @@
 <?php
 	$lang = array(
 		"title1" => "À propos de moi",
+        "projet" => "Projet",
         "header" => "Informations de base sur moi",
         "description" => "Khalid Esserhir, développeur Web, a démarré ce domaine il y a environ un an. J'ai découvert le domaine de la programmation par hasard en visionnant des vidéos sur YouTube et je suis allé sur l'un des canaux pour expliquer l'une des leçons de programmation. Ce domaine, surtout que j'aime les mathématiques et la logique, a révélé que le champ de programmation est très similaire Sur la logique et l'analyse mathématique.",
         "nom" => "Nom",
